@@ -143,10 +143,10 @@ body {
     box-shadow: 0 0 10px rgb(0, 0, 0, .3);
     position: relative;
     left: 8px;
-    /* background: #f5de0c; */
-    background-color: #d906ec;
-    border-top-left-radius: 100px;
-    border-bottom-left-radius: 100px;
+    background: #f5980c;
+    /* background-color: #d906ec; */
+    border-top-left-radius: 80px;
+    border-bottom-left-radius: 80px;
     border-top-right-radius: 25px;
     border-bottom-right-radius: 25px;
     padding: 30px 40px;
